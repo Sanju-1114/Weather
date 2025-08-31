@@ -1,4 +1,4 @@
-# 🌦 React Weather App
+#  React Weather App
 
 A modern, responsive weather application built with **React** and powered by the [OpenWeather API](https://openweathermap.org/api). Users can search for any city and view real-time weather data with a clean and intuitive interface.
 
@@ -14,10 +14,31 @@ A modern, responsive weather application built with **React** and powered by the
 -  Weather condition icons and descriptions
 -  Responsive design for mobile and desktop
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Clone the repo
 ```bash
-git clone https://github.com/your-username/react-weather-app.git
-cd react-weather-app
+git clone https://github.com/Sanju-1114/Weather.git
 ```
+- then go to weather folder
+
+### Install dependencies
+```bash
+npm install
+```
+
+### Add your API key
+- Go to src/SearchBox.jsx then change
+```bash
+onst API_KEY =
+```
+
+### Start the app
+```bash
+npm run dev
+```
+
+##  Notes
+
+- Make sure to enable **CORS** in your API settings if needed.
+- You can switch between **metric** and **imperial** units for temperature and wind speed.
