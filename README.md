@@ -20,7 +20,7 @@ A modern, responsive weather application built with **React** and powered by the
 ```bash
 git clone https://github.com/Sanju-1114/Weather.git
 ```
-- then go to weather folder
+- then go to weather-app folder in which you cloned it
 
 ### Install dependencies
 ```bash
@@ -28,9 +28,9 @@ npm install
 ```
 
 ### Add your API key
-- Go to src/SearchBox.jsx then change
+- Go to ```src/SearchBox.jsx``` then change
 ```bash
-const API_KEY = "Your API_KEY of open weather"; // create account on https://openweathermap.org/ and det your api key
+const API_KEY = "Your API_KEY of open weather" // create account on https://openweathermap.org/ and det your api key
 ```
 
 ### Start the app
