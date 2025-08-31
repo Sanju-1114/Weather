@@ -30,7 +30,7 @@ npm install
 ### Add your API key
 - Go to ```src/SearchBox.jsx``` then change
 ```bash
-const API_KEY = "Your API_KEY of open weather" // create account on https://openweathermap.org/ and det your api key
+const API_KEY = "Your API_KEY of open weather"
 ```
 
 ### Start the app
