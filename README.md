@@ -1,8 +1,9 @@
 #  React Weather App
 
+---
+
 A modern, responsive weather application built with **React** and powered by the [OpenWeather API](https://openweathermap.org/api). Users can search for any city and view real-time weather data with a clean and intuitive interface.
 
----
 
 ##  Tech Stack
 -  React
