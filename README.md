@@ -36,6 +36,8 @@ npm install
 ```bash
 const API_KEY = "Your API_KEY of open weather"
 ```
+- OR if you want to add API of other than Open weather then first read documentation of that and then change the code accordingly.
+
 
 ### Start the app
 ```bash
