@@ -16,8 +16,7 @@ A modern, responsive weather application built with **React** and powered by the
 -  Display temperature, humidity, min temperature, max temperature, condition
 -  Weather condition icons and descriptions
 -  Responsive design for mobile and desktop
-
-
+  
 ##  Getting Started
 
 ### Clone the repo
