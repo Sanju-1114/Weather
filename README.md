@@ -16,9 +16,8 @@ A modern, responsive weather application built with **React** and powered by the
 -  Display temperature, humidity, min temperature, max temperature, condition
 -  Weather condition icons and descriptions
 -  Responsive design for mobile and desktop
-  
+---
 ##  Getting Started
-
 ### Clone the repo
 ```bash
 git clone https://github.com/Sanju-1114/Weather.git
@@ -42,7 +41,7 @@ const API_KEY = "Your API_KEY of open weather"
 ```bash
 npm run dev
 ```
-
+---
 ##  Notes
 
 - Make sure to enable **CORS** in your API settings if needed.
