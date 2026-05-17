@@ -46,3 +46,5 @@ npm run dev
 
 - Make sure to enable **CORS** in your API settings if needed.
 - You can switch between **metric** and **imperial** units for temperature and wind speed.
+
+---
